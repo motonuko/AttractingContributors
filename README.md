@@ -24,5 +24,9 @@ https://github.com/hackroid/AttractingContributors_EverydayMacSoftware
 There is a example below:
 1. [Magnet](https://magnet.crowdcafe.com/): Activated by dragging, customizable keyboard shortcuts or via menu bar, Magnet declutters your screen by snapping windows into organized tiles. (Here is a simple introduction)
 
+# Discussion
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/839
+
 # List of  macOS Software Recommendations
 1. 
