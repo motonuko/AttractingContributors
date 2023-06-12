@@ -22,7 +22,7 @@ Please share your recommendations for a set of daily-use utility software or plu
 https://github.com/hackroid/AttractingContributors_EverydayMacSoftware
 
 There is a example below:
-1. [Magnet](https://magnet.crowdcafe.com/) Intro: Activated by dragging, customizable keyboard shortcuts or via menu bar, Magnet declutters your screen by snapping windows into organized tiles.
+1. [Magnet](https://magnet.crowdcafe.com/): Activated by dragging, customizable keyboard shortcuts or via menu bar, Magnet declutters your screen by snapping windows into organized tiles. (Here is a simple introduction)
 
 # List of  macOS Software Recommendations
 1. 
