@@ -20,7 +20,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
 Hello everyone!
 
 Our college campus is full of fascinating places to visit. So, we have a favor to ask you. Would you be willing to share with us about the places on campus that you love the most?
@@ -48,3 +47,15 @@ Together, let's spread the word about our college campuses and share our memorie
 ぜひ、あなたの大学キャンパス内のお気に入りの場所について、コメントや写真、思い出を共有してください。私たちは、あなたからのメッセージを楽しみにしています！
 
 一緒に大学キャンパスの魅力を広め、思い出を語り合いましょう！
+
+# List of places
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
