@@ -29,4 +29,4 @@ There is a example below:
 https://github.com/NAIST-SE/AttractingContributors/discussions/839
 
 # List of  macOS Software Recommendations
-1. 
+1. Unclutter(https://unclutterapp.com/): This Mac app is accessible with a quick swipe from the top of your screen and functions as a convenient place for storing quick notes, recent files, and clipboard information.
