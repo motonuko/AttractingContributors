@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/839
 
 # List of  macOS Software Recommendations
 1. Unclutter(https://unclutterapp.com/): This Mac app is accessible with a quick swipe from the top of your screen and functions as a convenient place for storing quick notes, recent files, and clipboard information.
+2. RunCat(https://apps.apple.com/jp/app/runcat/id1429033973?mt=12): This app shows visually the occupancy rate by the speed of running cat. In addition to cats, there are a variety of other characters to choose from, including people and sushi, which are fun to look at.
