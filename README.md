@@ -51,11 +51,11 @@ Together, let's spread the word about our college campuses and share our memorie
 # List of places
 1.
 2.
-3.
+3.　dormitory(寮)
 4.
 5.
 6.
-7.
+7. 
 8.
 9.
 10.
