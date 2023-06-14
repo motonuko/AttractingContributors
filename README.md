@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/839
 2. [RunCat](https://apps.apple.com/jp/app/runcat/id1429033973?mt=12): This app shows visually the occupancy rate by the speed of running cat. In addition to cats, there are a variety of other characters to choose from, including people and sushi, which are fun to look at.
 3. [QQ](https://im.qq.com/macqq/index.shtml): This Mac app can communicate with chinese. is good app
 4. [google chrome](https://www.google.com/intl/ja_jp/chrome/): I am Windows user but it must be useful for MAC users too haha
+5. [Clipy](https://github.com/Clipy/Clipy): A Clipboard extension app for macOS.
