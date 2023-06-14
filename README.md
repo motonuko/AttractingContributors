@@ -12,3 +12,4 @@ Here is an example.
 
 # List of lectures you consider the best
 - Transmission Theory
+- Sequential Data Modeling
