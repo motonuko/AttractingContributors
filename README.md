@@ -49,7 +49,7 @@ Together, let's spread the word about our college campuses and share our memorie
 一緒に大学キャンパスの魅力を広め、思い出を語り合いましょう！
 
 # List of places
-1.
+1.Pond Area is very soothing and calm
 2.
 3.
 4.
