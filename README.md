@@ -11,3 +11,4 @@ Here is an example.
 - Research Writing A
 
 # List of lectures you consider the best
+- Sequential Data Modeling
