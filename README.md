@@ -49,8 +49,9 @@ Together, let's spread the word about our college campuses and share our memorie
 一緒に大学キャンパスの魅力を広め、思い出を語り合いましょう！
 
 # List of places
-1.Lab Room
-2.
+
+1. Lab Room
+2. Science Plaza
 3.
 4.
 5.
