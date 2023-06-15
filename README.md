@@ -17,3 +17,4 @@ Here is an example.
 - Ubiquitous system
 - (Advanced) Research Writing
 - Datamining 
+- Advanced Algorithm Design
