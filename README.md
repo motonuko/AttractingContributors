@@ -55,7 +55,7 @@ Together, let's spread the word about our college campuses and share our memorie
 4. smoking area
 5. dormitory(寮)
 6. The lake
-7.
+7. 談話室
 8.
 9.
 10.
