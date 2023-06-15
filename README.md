@@ -49,13 +49,13 @@ Together, let's spread the word about our college campuses and share our memorie
 一緒に大学キャンパスの魅力を広め、思い出を語り合いましょう！
 
 # List of places
-1.Pond Area is very soothing and calm
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. Lab Room
+2. Science Plaza
+3. The pond, because my son likes to see the fishes
+4. smoking area
+5. dormitory(寮)
+6. The lake
+7. 談話室
+8. Pond Area is very soothing and calm
 9.
 10.
