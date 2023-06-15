@@ -54,7 +54,7 @@ Together, let's spread the word about our college campuses and share our memorie
 3. The pond, because my son likes to see the fishes
 4. smoking area
 5.
-6.
+6. The lake
 7.
 8.
 9.
