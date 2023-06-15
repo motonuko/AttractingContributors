@@ -56,6 +56,6 @@ Together, let's spread the word about our college campuses and share our memorie
 5. dormitory(寮)
 6. The lake
 7. 談話室
-8.
+8. Pond Area is very soothing and calm
 9.
 10.
