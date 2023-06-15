@@ -52,7 +52,7 @@ Together, let's spread the word about our college campuses and share our memorie
 1. Lab Room
 2. Science Plaza
 3. The pond, because my son likes to see the fishes
-4.
+4. smoking area
 5.
 6.
 7.
