@@ -15,4 +15,5 @@ Here is an example.
 - Sequential Data Modeling
 - Software Engineering
 - Ubiquitous system
+- (Advanced) Research Writing
 - Datamining 
