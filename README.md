@@ -16,3 +16,4 @@ Here is an example.
 - Software Engineering
 - Ubiquitous system
 - (Advanced) Research Writing
+- Datamining 
