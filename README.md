@@ -18,4 +18,5 @@ Here is an example.
 - (Advanced) Research Writing
 - Datamining 
 - Advanced Algorithm Design
+- Software Engineering
 - Sequential Data Modeling
