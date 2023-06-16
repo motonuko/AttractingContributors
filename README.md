@@ -19,3 +19,4 @@ Here is an example.
 - Datamining 
 - Advanced Algorithm Design
 - Software Engineering
+- Sequential Data Modeling
