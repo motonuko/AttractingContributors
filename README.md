@@ -20,3 +20,4 @@ Here is an example.
 - Advanced Algorithm Design
 - Software Engineering
 - Sequential Data Modeling
+- Human Information Processing
